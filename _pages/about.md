@@ -9,7 +9,7 @@ profile:
   image: favicons.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><i class="fa-light fa-camera"></i> Marietta Sujin Hüttemann</p>
+    :camera: Marietta Sujin Hüttemann</p>
  #   <p></p>
  #   <p></p>
 
