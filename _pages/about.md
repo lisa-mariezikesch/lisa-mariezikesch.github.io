@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Doctoral Researcher at "Shifting Narratives: Misperceptions and Factual Information on Immigration" <a href='https://www.mzes.uni-mannheim.de/en/'>MZES Mannheim</a>.
 
 profile:
   align: right
