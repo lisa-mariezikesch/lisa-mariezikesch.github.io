@@ -5,7 +5,7 @@ permalink: /
 subtitle: Doctoral Researcher at <a href='https://www.mzes.uni-mannheim.de/en/'>MZES Mannheim</a>.
 
 profile:
-  align: middle
+  align: right
   image: favicons.png
   image_circular: false # crops the image to make it circular
   more_info: >
