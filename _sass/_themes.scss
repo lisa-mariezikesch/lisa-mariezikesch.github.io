@@ -2,12 +2,12 @@
 
 :root {
   --global-theme-color: #7a1a00;
-  --global-hover-color: #1d4ed8;
+  --global-hover-color: #7a1a00;
 }
 
 html[data-theme="dark"] {
   --global-theme-color: #ffe8e5;
-  --global-hover-color: #93c5fd;
+  --global-hover-color: #ffe8e5;
 }
 
 ---
