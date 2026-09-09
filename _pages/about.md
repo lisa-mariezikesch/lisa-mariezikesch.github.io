@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: HOME
 permalink: /
 subtitle: Doctoral Researcher at <a href='https://www.mzes.uni-mannheim.de/en/'>MZES Mannheim</a>.
 
@@ -9,8 +9,8 @@ profile:
   image: favicon.png
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p> :camera: Marietta Sujin Hüttemann</p>
- #   <p></p>
+     <p> :camera: </p>
+     <p>Marietta Sujin Hüttemann </p>
  #   <p></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
