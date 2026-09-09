@@ -6,10 +6,10 @@ subtitle: Doctoral Researcher at <a href='https://www.mzes.uni-mannheim.de/en/'>
 
 profile:
   align: right
-  image: favicons.png
+  image: favicon.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    :camera: Marietta Sujin Hüttemann</p>
+     <p> :camera: Marietta Sujin Hüttemann</p>
  #   <p></p>
  #   <p></p>
 
