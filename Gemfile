@@ -62,5 +62,4 @@ group :al_folio_plugins do
     gem 'al_rtl', '= 1.0.0'
 end
 
-gem "minimal-mistakes-jekyll"
 
